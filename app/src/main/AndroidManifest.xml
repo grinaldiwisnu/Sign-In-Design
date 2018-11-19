@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".TermsActivity"></activity>
+        <activity android:name=".Terms" />
+        <activity android:name=".Register" />
+        <activity android:name=".Home"></activity>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Photograph</string>
     <string name="next">NEXT</string>
     <string name="skip">SKIP</string>
@@ -13,4 +13,25 @@
     <string name="slide_3_title">Popularitas</string>
     <string name="slide_3_desc">Marketplace yang dapat menampung kreativitas anda.</string>
     <string name="button_text">Sign In With Google</string>
+
+    <string name="fullName">Nama Lengkap</string>
+    <string name="mobileNumber">No Telepon</string>
+    <string name="location">Lokasi</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">Dengan ini saya setuju dengan kebijakan dan privasi aplikasi</string>
+    <string name="signUp">Lengkapi Profile</string>
+    <string name="email">Email</string>
+    <string name="passowrd">Password</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="accept">Saya Setuju</string>
+    <string name="terms">
+       At Freenom, we are committed to protecting your privacy. We use the information we collect about you and your domain name, payment method to process registrations only. Please review the Freenom Privacy Policy for more information.
+    </string>
+    <string name="terms2" tools:ignore="StringEscaping">
+        This is the standard way of registration. It\'s a free service! You need to have a website, homepage or web page online on an existing web address or the capability of setting up your own website/server with content. Every Internet user who surfs to your free domain address will automatically go to the website address you have registered. You can change your website address any time to redirect your users to a different website or web page.
+    </string>
+    <string name="terms3" tools:ignore="StringEscaping">
+        All sales made on the Freenom website, My Freenom or through the Freenom API, either direct or through libraries or modules, are rendered directly from Freenom. All one-time sales are billed only once. Subscription based services, such as domain name registrations, hosting services, SSL certification and others are billed by bank wire, PayPal or credit card on a recurring basis. Freenom obtains and securely stores the payment information, such as credit card numbers and expiration dates either themselves, or through PCI compliant Payment Service Provider(s). On all subscriptions the Freenom Cancellation, Expired Domain Deletion, and Auto-Renew Policy applies, as listed on the Freenom Terms and Conditions page. Freenom has banking relationships with various banks around the world.
+    </string>
+    <string name="kebijakan_privasi"><![CDATA[Kebijakan & Privasi]]></string>
 </resources>
